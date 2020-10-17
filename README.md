@@ -1,1 +1,1 @@
-# Master_Bioinformatics
+# Scripts derived by Master courses
